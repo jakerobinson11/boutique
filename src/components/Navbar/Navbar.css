@@ -1,0 +1,12 @@
+/* Navbar.css */
+.navbar-brand img {
+    margin-right: 10px; /* Space between logo and text */
+  }
+  
+  .navbar .form-control {
+    width: 200px; /* Adjust search bar width */
+  }
+  
+  .navbar-nav .nav-link {
+    font-size: 1rem; /* Slightly larger font for links */
+  }
